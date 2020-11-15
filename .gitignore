@@ -2,7 +2,7 @@
 **/env
 **/__pycahe__
 **/.vscode
-**/.serverless-wsgi
+**/.serverless
 **package.json
 **package-lock.json
 **/serverless.yml
