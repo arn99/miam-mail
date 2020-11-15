@@ -1,0 +1,11 @@
+**/node_modules
+**/env
+**/__pycahe__
+**/.vscode
+**/.serverless-wsgi
+**package.json
+**package-lock.json
+**/serverless.yml
+**/serverless_wsgi.py
+**/wsgi_handler.py
+**/zappa_settings.json
